@@ -23,3 +23,5 @@ Run the command in the terminal
 ```
 pip install opencv-python
 ```
+
+### Spiralweb
