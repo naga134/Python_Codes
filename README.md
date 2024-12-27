@@ -25,3 +25,15 @@ pip install opencv-python
 ```
 
 ### Spiralweb
+
+### CAPTCHA
+
+```
+pip install captcha pillow
+```
+
+### Chemical Name to Formula
+
+```
+pip install pubchempy
+```
